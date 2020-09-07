@@ -5,7 +5,8 @@ I'm 17 years old unemployed "front-end developer" from Rzeszow, Poland. I'm crea
 - 🌱 I’m currently learning:
   - react native 
   - firebase possibilities 
-  - gatsby
+  - gatsby.js
+  - node.js
 - 📫 How to reach me: 
   - email: i.patro@wp.pl
   - facebook: https://www.facebook.com/profile.php?id=100008673517472
