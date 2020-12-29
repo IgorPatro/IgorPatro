@@ -7,6 +7,7 @@ I'm 17 and I'm from Rzeszow, Poland. I'm creating very intresting projects in my
   - firebase possibilities 
   - gatsby.js
   - node.js
+  - typescript
 - 📫 How to reach me: 
   - email: i.patro@wp.pl
   - facebook: http://bit.do/fMdMQ
