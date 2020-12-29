@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm 17 years old unemployed "front-end developer" from Rzeszow, Poland. I'm creating very intresting projects in my favorite framework - React.js!
+I'm 17 and I'm from Rzeszow, Poland. I'm creating very intresting projects in my favorite framework - React.js!
 
 - 🌱 I’m currently learning:
   - react native 
@@ -9,7 +9,8 @@ I'm 17 years old unemployed "front-end developer" from Rzeszow, Poland. I'm crea
   - node.js
 - 📫 How to reach me: 
   - email: i.patro@wp.pl
-  - facebook: https://www.facebook.com/profile.php?id=100008673517472
+  - facebook: http://bit.do/fMdMQ
 - ⚡ Fun fact: 
   - I'm wasting 7 hours per day in polish school....
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IgorPatro)](https://github.com/anuraghazra/github-readme-stats)
