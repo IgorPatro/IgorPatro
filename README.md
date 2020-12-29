@@ -14,4 +14,4 @@ I'm 17 and I'm from Rzeszow, Poland. I'm creating very intresting projects in my
 - ⚡ Fun fact: 
   - I'm wasting 7 hours per day in polish school....
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IgorPatro)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IgorPatro&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
