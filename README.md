@@ -17,6 +17,4 @@ I'm 17 and I'm from Rzeszow, Poland. I'm creating very intresting projects in my
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IgorPatro&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPatro)](https://github.com/anuraghazra/github-readme-stats)
