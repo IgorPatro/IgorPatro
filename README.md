@@ -15,8 +15,8 @@ I'm 17 and I'm from Rzeszow, Poland. I'm creating very intresting projects in my
 - ⚡ Fun fact: 
   - I'm wasting 7 hours per day in polish school....
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IgorPatro&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IgorPatro&theme=dracula&show_icons=true)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPatro&theme=dracula&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPatro&theme=dracula&show_icons=true&layout=compact)]
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IgorPatro&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IgorPatro&theme=dracula&show_icons=true)]
