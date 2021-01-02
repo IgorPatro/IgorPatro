@@ -8,6 +8,7 @@ I'm 17 and I'm from Rzeszow, Poland. I'm creating very intresting projects in my
   - gatsby.js
   - node.js
   - typescript
+  - nest.js
 - 📫 How to reach me: 
   - email: i.patro@wp.pl
   - facebook: http://bit.do/fMdMQ
