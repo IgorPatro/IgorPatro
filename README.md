@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm 17 and I'm from Rzeszow, Poland. I'm creating very intresting projects in my favorite framework - React.js!
+I'm 18 and I'm from Rzeszow, Poland. I'm creating very intresting projects in my favorite framework - React.js!
 
 - 🌱 I’m currently learning:
   - react native 
@@ -10,7 +10,7 @@ I'm 17 and I'm from Rzeszow, Poland. I'm creating very intresting projects in my
   - nest.js
 - 📫 How to reach me: 
   - email: contact@patrocreations.pl
-  - facebook: https://www.facebook.com/patro.igor/
+  - facebook: https://facebook.com/patro.igor/
 - ⚡ Fun fact: 
   - I'm wasting 7 hours per day in polish school...
 
