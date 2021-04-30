@@ -2,7 +2,7 @@
 
 I'm 18 and I'm from Rzeszow, Poland. I'm creating very intresting projects in my favorite framework - React.js!
 
-Checkout my website - https://patrocreations.pls
+Checkout my website - https://patrocreations.pl
 
 - 🌱 I’m currently learning:
   - react native 
