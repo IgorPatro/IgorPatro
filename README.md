@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm 18 and I'm from Rzeszow, Poland. I'm creating very intresting projects in my favorite framework - React.js!
+I'm 18 and I'm from Rzeszow, Poland. I'm creating very intresting projects in my favourite framework - React.js!
 
 Checkout my website - https://patrocreations.com
 
