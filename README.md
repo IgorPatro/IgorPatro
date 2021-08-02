@@ -5,10 +5,7 @@ I'm 18 and I'm from Rzeszow, Poland. I'm creating very intresting projects in my
 Checkout my website - https://patrocreations.com
 
 - 🌱 I’m currently learning:
-  - react native 
-  - firebase possibilities 
-  - node.js
-  - typescript
+  - react native
   - nest.js
 - 📫 How to reach me: 
   - email: contact@patrocreations.com
