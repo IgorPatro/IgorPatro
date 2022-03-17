@@ -5,8 +5,10 @@ I'm 18 and I'm from Rzeszow, Poland. I'm creating very intresting projects in my
 Checkout my website - https://patrocreations.com
 
 - 🌱 I’m currently learning:
-  - react native
-  - nest.js
+  - React Native
+  - Nest.js
+  - Python
+  - Machine Learning
 - 📫 How to reach me: 
   - email: contact@patrocreations.com
   - facebook: https://facebook.com/patro.igor/
