@@ -21,8 +21,8 @@ I’m currently learning:
 How to reach me: 
 - email: contact@patrocreations.com
 - facebook: [facebook.com/patro.igor](https://facebook.com/patro.igor/)
-- website: [patrocreations.com](https://patrocreations.com)
 - linkedin: [linkedin.com/in/igorpatro](https://www.linkedin.com/in/igorpatro/)
+- website: [patrocreations.com](https://patrocreations.com)
 
 <br/>
 
