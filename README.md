@@ -4,7 +4,7 @@
 
 ---
 
-My passion is to improve my skillset. I know I still have a lot to learn, and I'm looking forward to it. During my veryyy long career, I have built dozen of webpages and web applications. If something can be built in React - I'm doing it immediately.
+My passion is to improve my skillset. 🙏 I know I still have a lot to learn, and I'm looking forward to it! During my veryyy long career 😂, I have built dozen of webpages and web applications. If something can be built in React - I'm doing it immediately.
 
 <br/>
 
@@ -27,9 +27,9 @@ How to reach me:
 <br/>
 
 Fun (maybe not) fact: 
-- I wasted 10 years of my life in polish school...
-- I'm still wasting few hours a day in polish school...
-- I love F1 <3
+- I wasted 10 years of my life in polish school... 🤮
+- I'm still wasting few hours a day in polish school... 😡
+- I love watching F1 😍 
 
 <br/>
 
