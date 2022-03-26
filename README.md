@@ -4,7 +4,7 @@
 
 ---
 
-My passion is to improve my skillset. 🙏 I know I still have a lot to learn, and I'm looking forward to it! During my veryyy long career 😂, I have built dozen of webpages and web applications. If something can be built in React - I'm doing it immediately. If you want to meet me and my story more - checkout my [website](https://patrocreations.com)
+My passion is to improve my skillset. 🙏 I know I still have a lot to learn, and I'm looking forward to it! During my veryyy long career 😂, I have built dozen of webpages and web applications. If something can be built in React - I'm doing it immediately. If you want to meet me and my story more - checkout my [website](https://patrocreations.com) 😎
 
 <br/>
 
