@@ -1,4 +1,4 @@
-# Hello! I’m Igor Patro 👋
+# Hello! I’m Igor Patro  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 ## 18 years old Frontend Developer from Rzeszów, Poland
 
