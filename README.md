@@ -4,7 +4,9 @@
 
 ---
 
-I am a young developer whose passion is improving himself. I love learning new solutions and technologies. My “to learn” list is exceptionally long, so I feel I won’t stop learning soon ;). During my veryyy long career, I have built dozen of webpages and web applications. Everything that can be built in React - I do.
+I am a young Frontend Developer. My passion is to improve my skillset. I know I still have a lot to learn, and I'm looking forward to it. During my veryyy long career, I have built dozen of webpages and web applications. If something can be built in React - I'm doing it immediately.
+
+<br/>
 
 I’m currently learning:
  - React Native
