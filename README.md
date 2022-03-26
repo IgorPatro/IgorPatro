@@ -9,26 +9,27 @@ My passion is to improve my skillset. I know I still have a lot to learn, and I'
 <br/>
 
 I’m currently learning:
- - React Native
- - Nest.js
- - Unit testing
- - Docker
- - Python (planning to learn)
- - Machine Learning (planning to learn)
+- React Native
+- Nest.js
+- Unit testing
+- Docker
+- Python (planning to learn)
+- Machine Learning (planning to learn)
 
 <br/>
 
 How to reach me: 
- - email: contact@patrocreations.com
- - facebook: [facebook.com/patro.igor/](https://facebook.com/patro.igor/)
- - website: [patrocreations.com](https://patrocreations.com)
+- email: contact@patrocreations.com
+- facebook: [facebook.com/patro.igor](https://facebook.com/patro.igor/)
+- linkedin: [patrocreations.com](https://patrocreations.com)
+- website: [linkedin.com/in/igorpatro](https://www.linkedin.com/in/igorpatro/)
 
 <br/>
 
 Fun (maybe not) fact: 
- - I wasted 10 years of my life in polish school...
- - I'm still wasting few hours a day in polish school...
- - I love F1 <3
+- I wasted 10 years of my life in polish school...
+- I'm still wasting few hours a day in polish school...
+- I love F1 <3
 
 <br/>
 
