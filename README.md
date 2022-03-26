@@ -8,6 +8,8 @@ I am a young Frontend Developer. My passion is to improve my skillset. I know I 
 
 <br/>
 
+[![wakatime](https://wakatime.com/badge/user/6d072f8e-55e7-43d0-9e27-fd843e808d97.svg)](https://wakatime.com/@6d072f8e-55e7-43d0-9e27-fd843e808d97)
+
 I’m currently learning:
  - React Native
  - Nest.js
