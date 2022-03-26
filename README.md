@@ -27,7 +27,7 @@ How to reach me:
 <br/>
 
 Fun (maybe not) facts: 
-- I wasted 10 years of my life in polish school... 🤮
+- I wasted too much time in polish school... 🤮
 - I'm still wasting few hours a day in polish school... 😡
 - I love watching F1 😍 
 
