@@ -16,13 +16,19 @@ I’m currently learning:
  - Python (planning to learn)
  - Machine Learning (planning to learn)
 
+<br/>
+
 How to reach me: 
  - email: contact@patrocreations.com
  - facebook: [facebook.com/patro.igor/](https://facebook.com/patro.igor/)
  - website: [patrocreations.com](https://patrocreations.com)
 
-- ⚡ Fun (maybe not) fact: 
-  - I'm wasting 7 hours per day in polish school...
+<br/>
+
+Fun (maybe not) fact: 
+ - I wasted 10 years of my life in polish school...
+ - I'm still wasting few hours a day in polish school...
+ - I love F1 <3
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IgorPatro&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
