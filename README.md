@@ -13,6 +13,7 @@ I’m currently learning:
 - Nest.js
 - Unit testing
 - Docker
+- AWS
 - Python (planning to learn)
 - Machine Learning (planning to learn)
 
