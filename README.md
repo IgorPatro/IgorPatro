@@ -6,8 +6,6 @@
 
 My work is my passion 🙏. I'm looking forward to improving my skills all the time. During my veryyy long career 😂, I have built dozen of webpages and web applications. If something can be built in React - I start working immediately. Check out my [website](https://patrocreations.com) if you want to get to know me and my story more. 😎 
 
-My passion is to improve my skillset. 🙏 I know I still have a lot to learn, and I'm looking forward to it! During my veryyy long career 😂, I have built dozen of webpages and web applications. If something can be built in React - I'm doing it immediately. If you want to meet me and my story more - check out my [website](https://patrocreations.com) 😎
-
 <br/>
 
 I’m currently learning:
