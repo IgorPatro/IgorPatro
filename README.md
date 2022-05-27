@@ -27,9 +27,8 @@ How to reach me:
 
 <br/>
 
-Fun (maybe not) facts: 
-- I wasted too much time in polish school... 🤮
-- I'm still wasting few hours a day in polish school... 😡
+Fun (maybe not all) facts: 
+- I have finished fucking polish school... 🤮
 - I love watching F1 😍 
 
 <br/>
