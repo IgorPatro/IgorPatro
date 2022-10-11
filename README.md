@@ -31,19 +31,18 @@ I’m a young geek who loves sitting with a cup of coffee and writing code! ☕ 
 - Docker
 - AWS
 
-<br/>
+## Contact
 
-How to reach me: 
 - email: igor.patro@patrocreations.com
 - facebook: [facebook.com/patro.igor](https://facebook.com/patro.igor/)
 - linkedin: [linkedin.com/in/igorpatro](https://www.linkedin.com/in/igorpatro/)
 - website: [patrocreations.com](https://patrocreations.com)
 
-<br/>
+## Facts about me
 
-Fun (maybe not all) facts: 
 - I don't like school (to put it gently) 😂
 - I love watching F1 😍 
+- I'm a Gatsby.js fanboy
 
 <br/>
 
