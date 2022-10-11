@@ -1,10 +1,10 @@
 # Hello! I’m Igor Patro  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-## 19 years old Frontend Developer from Rzeszów, Poland
+## Young Frontend Developer from Rzeszów, Poland
 
 ---
 
-My work is my passion 🙏. I'm looking forward to improving my skills all the time. During my veryyy long career 😂, I have built dozen of webpages and web applications. If something can be built in React - I start working immediately. Check out my [website](https://patrocreations.com) if you want to get to know me and my story more. 😎 
+I’m a young geek who loves sitting with a cup of coffee and writing code! ☕ My work is my passion 🙏 I love improving my skills, and I’m always looking forward to getting new experiences.
 
 <br/>
 
@@ -14,13 +14,11 @@ I’m currently learning:
 - Unit testing
 - Docker
 - AWS
-- Python (planning to learn)
-- Machine Learning (planning to learn)
 
 <br/>
 
 How to reach me: 
-- email: contact@patrocreations.com
+- email: igor.patro@patrocreations.com
 - facebook: [facebook.com/patro.igor](https://facebook.com/patro.igor/)
 - linkedin: [linkedin.com/in/igorpatro](https://www.linkedin.com/in/igorpatro/)
 - website: [patrocreations.com](https://patrocreations.com)
@@ -28,7 +26,7 @@ How to reach me:
 <br/>
 
 Fun (maybe not all) facts: 
-- I have finished fucking polish school... 🤮
+- I don't like school (to put it gently) 😂
 - I love watching F1 😍 
 
 <br/>
