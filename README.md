@@ -8,9 +8,9 @@ I’m a young geek who loves sitting with a cup of coffee and writing code! ☕ 
 
 ## Tools & Technologies
 
-<img src="https://patrocreations.com/assets/react.svg" width="32" height="32" />
-<img src="https://patrocreations.com/assets/next.svg" width="32" height="32" />
-<img src="https://patrocreations.com/assets/gatsby.svg" width="32" height="32" />
+<img src="https://patrocreations.com/assets/react.svg" width="32" height="32" /> &nbsp;
+<img src="https://patrocreations.com/assets/next.svg" width="32" height="32" /> &nbsp;
+<img src="https://patrocreations.com/assets/gatsby.svg" width="32" height="32" /> &nbsp;
 <img src="https://patrocreations.com/assets/node.svg" width="32" height="32" />
 <img src="https://patrocreations.com/assets/typescript.svg" width="32" height="32" />
 <img src="https://patrocreations.com/assets/javascript.svg" width="32" height="32" />
@@ -21,7 +21,7 @@ I’m a young geek who loves sitting with a cup of coffee and writing code! ☕ 
 <img src="https://patrocreations.com/assets/datocms.svg" width="32" height="32" />
 <img src="https://patrocreations.com/assets/figma.svg" width="32" height="32" />
 <img src="https://patrocreations.com/assets/firebase.svg" width="32" height="32" />
-<img src="https://patrocreations.com/assets/contentful.svg" width="32" height="32" />
+<img src="https://patrocreations.com/assets/contenful.svg" width="32" height="32" />
 <img src="https://patrocreations.com/assets/strapi.svg" width="32" height="32" />
 <img src="https://patrocreations.com/assets/tailwind.svg" width="32" height="32" />
 
