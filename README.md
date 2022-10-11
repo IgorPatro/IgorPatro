@@ -2,8 +2,6 @@
 
 ## Young Frontend Developer from Rzeszów, Poland
 
----
-
 I’m a young geek who loves sitting with a cup of coffee and writing code! ☕ My work is my passion 🙏 I love improving my skills, and I’m always looking forward to getting new experiences.
 
 ## Tools & Technologies
@@ -25,11 +23,8 @@ I’m a young geek who loves sitting with a cup of coffee and writing code! ☕ 
 <img src="https://patrocreations.com/assets/strapi.svg" width="32" height="32" />&nbsp;
 <img src="https://patrocreations.com/assets/tailwind.svg" width="32" height="32" />&nbsp;
  
-### You can find me on:
-<a href="https://www.linkedin.com/in/paweł-sławuta-64709219a/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" /></a>
+## Currently learning
 
-
-I’m currently learning:
 - React Native
 - Nest.js
 - Unit testing
