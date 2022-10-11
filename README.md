@@ -6,7 +6,28 @@
 
 I’m a young geek who loves sitting with a cup of coffee and writing code! ☕ My work is my passion 🙏 I love improving my skills, and I’m always looking forward to getting new experiences.
 
-<br/>
+## Tools & Technologies
+
+<img src="https://patrocreations.com/assets/react.svg" width="32" height="32" />
+<img src="https://patrocreations.com/assets/next.svg" width="32" height="32" />
+<img src="https://patrocreations.com/assets/gatsby.svg" width="32" height="32" />
+<img src="https://patrocreations.com/assets/node.svg" width="32" height="32" />
+<img src="https://patrocreations.com/assets/typescript.svg" width="32" height="32" />
+<img src="https://patrocreations.com/assets/javascript.svg" width="32" height="32" />
+<img src="https://patrocreations.com/assets/css.svg" width="32" height="32" />
+<img src="https://patrocreations.com/assets/html.svg" width="32" height="32" />
+<img src="https://patrocreations.com/assets/aws.svg" width="32" height="32" />
+<img src="https://patrocreations.com/assets/redux.svg" width="32" height="32" />
+<img src="https://patrocreations.com/assets/datocms.svg" width="32" height="32" />
+<img src="https://patrocreations.com/assets/figma.svg" width="32" height="32" />
+<img src="https://patrocreations.com/assets/firebase.svg" width="32" height="32" />
+<img src="https://patrocreations.com/assets/contentful.svg" width="32" height="32" />
+<img src="https://patrocreations.com/assets/strapi.svg" width="32" height="32" />
+<img src="https://patrocreations.com/assets/tailwind.svg" width="32" height="32" />
+
+### You can find me on:
+<a href="https://www.linkedin.com/in/paweł-sławuta-64709219a/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" /></a>
+
 
 I’m currently learning:
 - React Native
