@@ -1,6 +1,6 @@
 # Hello! I’m Igor Patro  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-## Young Frontend Developer from Rzeszów, Poland
+## Frontend Developer from Rzeszów, Poland
 
 I’m a young geek who loves sitting with a cup of coffee and writing code! ☕ My work is my passion 🙏 I love improving my skills, and I’m always looking forward to getting new experiences.
 
