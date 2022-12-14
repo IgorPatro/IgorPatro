@@ -51,3 +51,5 @@ I’m a young geek who loves sitting with a cup of coffee and writing code! ☕ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPatro&theme=dracula&show_icons=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IgorPatro&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karasjakub&" alt="karasjakub" />
