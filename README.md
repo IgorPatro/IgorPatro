@@ -2,7 +2,7 @@
 
 ## Frontend Developer from Rzeszów, Poland
 
-I’m a young geek who loves sitting with a cup of coffee and writing code! ☕ My work is my passion 🙏 I love improving my skills, and I’m always looking forward to getting new experiences.
+I love sitting with a cup of coffee and writing some code! ☕ My work is my passion 🙏 I love improving my skills, and I’m always looking forward to getting new experiences.
 
 ## Tools & Technologies
 
@@ -37,12 +37,6 @@ I’m a young geek who loves sitting with a cup of coffee and writing code! ☕ 
 - facebook: [facebook.com/patro.igor](https://facebook.com/patro.igor/)
 - linkedin: [linkedin.com/in/igorpatro](https://www.linkedin.com/in/igorpatro/)
 - website: [patrocreations.com](https://patrocreations.com)
-
-## Facts about me
-
-- I don't like school (to put it gently) 😂
-- I love watching F1 😍 
-- I'm a Gatsby.js fanboy
 
 <br/>
 
